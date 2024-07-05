@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 5px;
+}
+table,td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 100px;
+}
+td{
+    padding: 38px;
+}
+.w{
+    background-color: #ffffff
+}
+.b{
+    background-color: #000000
+}
+
