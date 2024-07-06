@@ -1,14 +1,17 @@
 body{
     padding: 0;
     margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
 }
 table,td{
     border: 1px solid black;
-}
-table{
     border-collapse: collapse;
-    width: 50%;
-    margin-left: 100px;
 }
 td{
     padding: 38px;
@@ -19,4 +22,6 @@ td{
 .b{
     background-color: #000000
 }
+
+
 
